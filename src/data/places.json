@@ -1,0 +1,280 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Neste Charging Station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.560198,65.000132]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Virta Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.465076, 65.012093]  
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Kempele Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors,(0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.503469, 64.912918]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Oulunsalo Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.411249,64.934372] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Virta Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.72846, 64.22728]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Toppilansaari Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.424482, 65.033123]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Lidl-lataus Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.495076, 65.092093]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "S-lataus Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.565076, 65.112093]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Haukipudas Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.350550, 65.176689]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Muhos Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.99314, 64.80798]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Ylikiiminki Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.1466701, 65.028614]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Kiiminki Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.7974, 65.1314]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Liminka Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.4155, 64.8099]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Lumijoki Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.18646, 64.837341]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "K-lataus Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.4706, 65.0261]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Fortum Charging station",
+          "DESCRIPTIO": "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.6523, 64.76469]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "S-lataus Charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.5637, 65.7364]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "ABC-lataus charging station",
+          "DESCRIPTIO": "50-150kW chargers with CCS connectors,(18 c/kWh)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.91667, 65.388333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Taivalkoski charging station",
+          "DESCRIPTIO":  "22kW chargers with Type 2 connectors, (free)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [28.25, 65.56667]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+         "NAME": "Ranua charging station",
+          "DESCRIPTIO":  "22kW chargers with Type 2 connectors, (0.20 e/min)"
+          
+          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.5333, 65.9167]
+        }
+      },
+
+      {
+        
+          "type": "Feature",
+          "properties": {
+           "NAME": "K-lataus Charge station",
+            "DESCRIPTIO": "22kW chargers with Type 2 connectors, (0.20 e/min)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.465076, 65]
+        }
+      }
+    ]
+  }
